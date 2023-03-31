@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,cAAc,CAAC;EACb,MAAM,EAAE,kBAAkB;CAC3B;;AAED,AAAA,gBAAgB,CAAC;EACf,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,YAAY,CAAC;EACX,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CACpB;;AAED,AAAA,sBAAsB,CAAC;EACrB,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAkB;CACrC",
+    "sources": [
+        "style.scss",
+        "_variables.scss",
+        "_mixins.scss",
+        "_globals.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
