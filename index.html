@@ -235,9 +235,9 @@
 		scene.add(globe);
 		renderer.render(scene, camera);
 		const update = () => {
+			requestAnimationFrame(update);
 			controls.update();
 			renderer.render(scene, camera);
-			requestAnimationFrame(update);
 		}
 		update();
 		return renderer;
